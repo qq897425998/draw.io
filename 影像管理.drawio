@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T02:38:49.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1qWnk-JWiOadicIPYvV8" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T06:49:07.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wsbze_hAbwGoYJbL67Cg" version="20.5.3" type="github">
   <diagram id="qrxmRqM77duy11TJZLwF" name="Page-1">
-    <mxGraphModel dx="2958" dy="1341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2860" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -547,8 +547,8 @@
         <mxCell id="xIz4t1A_rdcvLCpUZj0C-467" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="3130" y="390" width="910" height="910" as="geometry" />
         </mxCell>
-        <mxCell id="xIz4t1A_rdcvLCpUZj0C-468" value="&lt;h1&gt;写报表时插入影像&lt;br&gt;&lt;br&gt;1.写报表之前需要选着企业或者平台相关信息&lt;/h1&gt;&lt;h1&gt;&lt;br&gt;2.拖入影像组件时 列出平台企业下所有影像 可以更具名称或者期号检索到具体影像插入即可&lt;br&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1&gt;3.如果有标注可以选者对应标注&lt;br&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1&gt;4.如果有结论信息可以选着结论&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="3380" y="720" width="660" height="550" as="geometry" />
+        <mxCell id="xIz4t1A_rdcvLCpUZj0C-468" value="&lt;h1&gt;写报表时插入影像&lt;br&gt;&lt;br&gt;1.写报表之前需要选着企业或者平台相关信息&lt;/h1&gt;&lt;h1&gt;&lt;br&gt;2.拖入影像组件时 列出平台企业下所有影像 可以更具名称或者期号检索到具体影像插入即可&lt;br&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1&gt;3.如果有标注可以勾选应标注&lt;br&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1&gt;4.如果有结论信息可勾选结论&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3210" y="690" width="660" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
